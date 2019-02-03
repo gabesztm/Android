@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1465e8</color>
+    <color name="colorPrimaryDark">#3879e2</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="appBackground">#6095ea</color>
+    <color name="tvBackground">#86abe8</color>
+</resources>
