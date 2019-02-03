@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WidgetNotes</string>
+    <string name="save">Mentés</string>
+    <string name="cancel">Mégse</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
