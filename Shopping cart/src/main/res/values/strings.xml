@@ -3,7 +3,7 @@
     <string name="modify">Új / Módosítás</string>
     <string name="save">Mentés</string>
     <string name="cancel">Mégse</string>
-    <string name="dialogMessage">Biztosan ezt kerested?</string>
+    <string name="dialogMessage">Biztosan ezt vetted le a polcról?</string>
     <string name="yes">Igen</string>
     <string name="no">Nem</string>
 </resources>
